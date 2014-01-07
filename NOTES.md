@@ -1,4 +1,11 @@
 
+## Regions
+
+- [List_of_regions_of_the_United_States](http://en.wikipedia.org/wiki/List_of_regions_of_the_United_States)
+
+
+## Quick Notes
+
 US Breweries Operating as of March 2013
 - 1,124 | Brewpubs 
 - 1,139 | Microbreweries 
