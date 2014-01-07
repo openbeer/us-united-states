@@ -2,16 +2,47 @@
 # Breweries in Colorado (CO) | West - Mountain
 
 
-coors,  Coors Brewing Co.|Coors Brewing Company, CO, Golden | CO // 
+[coors]
+  Coors Brewing Co.|Coors Brewing Company
+  Golden | CO // 
 
-newbelgium,   New Belgium Brewing Co.|New Belgium Brewing Company, CO, Fort Collins | CO // 
-avery,        Avery Brewing Co.|Avery Brewing Company, CO, Boulder | CO // 
-oskarblues,   Oskar Blues Brewery, CO, Longmont | CO // 
-lefthand,     Left Hand Brewing Co.|Left Hand Brewing Company, CO, Longmont | CO // 
-greatdivide,  Great Divide Brewing Co.|Great Divide Brewing Company, CO, Denver | CO // 
-breckenridge, Breckenridge Brewery, CO, Denver | CO // 
-odell,        Odell Brewing Co., CO, Fort Collins | CO // 
-boulder,      Boulder Beer Co.|Boulder Beer Company, CO, Boulder | CO // 
-skabrewing,   Ska Brewing, CO, Durango | CO // 
-crookedstave, Crooked Stave Artisan Beer Project, CO, Denver | CO // 
+[newbelgium]
+  New Belgium Brewing Co.|New Belgium Brewing Company
+  Fort Collins | CO // 
+
+[avery]
+  Avery Brewing Co.|Avery Brewing Company
+  Boulder | CO // 
+
+[oskarblues]
+  Oskar Blues Brewery
+  Longmont | CO // 
+
+[lefthand]
+  Left Hand Brewing Co.|Left Hand Brewing Company
+  Longmont | CO // 
+
+[greatdivide]
+  Great Divide Brewing Co.|Great Divide Brewing Company
+  Denver | CO // 
+
+[breckenridge]
+  Breckenridge Brewery
+  Denver | CO // 
+
+[odell]
+  Odell Brewing Co.
+  Fort Collins | CO // 
+
+[boulder]
+  Boulder Beer Co.|Boulder Beer Company
+  Boulder | CO // 
+
+[skabrewing]
+  Ska Brewing
+  Durango | CO // 
+
+[crookedstave]
+  Crooked Stave Artisan Beer Project
+  Denver | CO // 
 

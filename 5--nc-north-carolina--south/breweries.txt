@@ -1,8 +1,19 @@
 ##############################################################
 # Breweries in North Carolina (NC) | South - South Atlantic
 
-Foothills Brewing, NC, Winston-Salem | NC // 
-Highland Brewing Co.|Highland Brewing Company, NC, Asheville | NC // 
-Mother Earth Brewing, NC, Kinston | NC // 
-The Duck-Rabbit Craft Brewery, NC, Farmville | NC //
+[foothills]
+  Foothills Brewing
+  Winston-Salem | NC // 
+
+[highland]
+  Highland Brewing Co.|Highland Brewing Company
+  Asheville | NC // 
+
+[motherearth]
+  Mother Earth Brewing
+  Kinston | NC // 
+
+[duckrabbit]
+  The Duck-Rabbit Craft Brewery
+  Farmville | NC //
 

@@ -2,4 +2,7 @@
 # Breweries in Oklahoma (OK) | South - West South Central
 
 
-Prairie Artisan Ales, OK, Tulsa | OK // 
+[prairieales]
+  Prairie Artisan Ales
+  Tulsa | OK // 
+

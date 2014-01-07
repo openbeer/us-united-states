@@ -3,12 +3,29 @@
 
 
 
-spoetzl,     Spoetzl Brewery, TX, Shiner | TX // 
-karbach,     Karbach Brewing Co, TX, Houston | TX // 
-jesterking,  Jester King Craft Brewery, TX, Austin | TX // 
-saintarnold, Saint Arnold Brewing Co.|Saint Arnold Brewing Company, TX, Houston | TX // 
-deepellum,   Deep Ellum Brewing Co.|Deep Ellum Brewing Company, TX, Dallas | TX // 
-hopsngrain,  Hops & Grain, TX, Austin | TX // 
+[spoetzl]
+  Spoetzl Brewery
+  Shiner | TX // 
+
+[karbach]
+  Karbach Brewing Co
+  Houston | TX // 
+
+[jesterking]
+  Jester King Craft Brewery
+  Austin | TX // 
+
+[saintarnold]
+  Saint Arnold Brewing Co.|Saint Arnold Brewing Company
+  Houston | TX // 
+
+[deepellum]
+  Deep Ellum Brewing Co.|Deep Ellum Brewing Company
+  Dallas | TX // 
+
+[hopsngrain]
+  Hops & Grain
+  Austin | TX // 
 
 # fix: can handle key starting w/ number??
 # 1512 Brewing Company, TX, Austin | TX // 

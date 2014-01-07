@@ -3,4 +3,7 @@
 
 
 
-Big Sky Brewing Co.|Big Sky Brewing Company, MT, Missoula | MT // 
+[bigsky]
+  Big Sky Brewing Co.|Big Sky Brewing Company
+  Missoula | MT // 
+

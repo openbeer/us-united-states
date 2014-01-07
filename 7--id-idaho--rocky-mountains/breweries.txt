@@ -2,4 +2,6 @@
 # Breweries in Idaho (ID) | West - Mountain
 
 
-Laughing Dog Brewing, ID, Ponderay | ID // 
+[laughingdog]
+  Laughing Dog Brewing
+  Ponderay | ID // 
