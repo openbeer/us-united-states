@@ -1,6 +1,8 @@
 ####################################################
 # Breweries in New York (NY) | Northeast - Mid Atlantic
 
+_____________________________________
+- New York City
 
 [brooklyn]
   Brooklyn Brewery, 1987
@@ -10,6 +12,10 @@
 [sixpoint]
   Sixpoint Brewery
   Brooklyn | NY // 
+
+
+______________________________________
+- New York State
 
 [southerntier]
   Southern Tier Brewing Co.|Southern Tier Brewing Company

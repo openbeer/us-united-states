@@ -1,0 +1,14 @@
+
+
+[anchorbrewing]
+  Anchor Brewing Co.|Anchor Brewing Company
+  San Francisco | CA //
+
+[speakeasy]
+  Speakeasy Ales and Lagers
+  San Francisco | CA //
+
+[shmaltz]
+  Shmaltz Brewing Co.|Shmaltz Brewing Company
+  San Francisco | CA //
+

@@ -1,6 +1,15 @@
 ##############################################################
 # Breweries in Washington (WA) | Pacific - West
 
-redhook, Redhook Ale Brewery, WA, Woodinville | WA // 
+___________________
+- Seattle
+
 pyramid, Pyramid Breweries, WA, Seattle | WA // 
+
+
+___________________
+- Washington
+
+redhook, Redhook Ale Brewery, WA, Woodinville | WA // 
 noli,    No-Li Brewhouse, WA, Spokane | WA // 
+

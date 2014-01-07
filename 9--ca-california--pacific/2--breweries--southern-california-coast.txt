@@ -1,0 +1,28 @@
+
+
+
+[greenflash]
+  Green Flash Brewing Co.
+  San Diego | CA //
+
+[ballastpoint]
+  Ballast Point Brewing
+  San Diego | CA //
+
+[alesmith]
+  AleSmith Brewing Co.|AleSmith Brewing Company
+  San Diego | CA //
+
+[karlstrauss]
+  Karl Strauss Brewing Co.|Karl Strauss Brewing Company
+  San Diego | CA //
+
+[societebrewing]
+  Societe Brewing Co.
+  San Diego | CA //
+
+
+[pizzaport]
+  Pizza Port
+  Carlsbad | CA //
+

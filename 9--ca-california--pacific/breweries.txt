@@ -1,5 +1,7 @@
 #################################################
 # Breweries in California (CA) | Pacific - West
+#
+# - uncategorized - move to los angeles/souther california coast/etc.
 
 
 [stonebrewing]
@@ -14,17 +16,9 @@
   Sierra Nevada Brewing Co.
   Chico | CA //
 
-[greenflash]
-  Green Flash Brewing Co.
-  San Diego | CA //
-
 [firestonewalker]
   Firestone Walker Brewing Co.|Firestone Walker Brewing Company
   Paso Robles | CA //
-
-[ballastpoint]
-  Ballast Point Brewing
-  San Diego | CA //
 
 [bearrepublic]
   Bear Republic Brewing Co.
@@ -38,17 +32,6 @@
   Anderson Valley Brewing Co.|Anderson Valley Brewing Company
   Boonville | CA //
 
-[anchorbrewing]
-  Anchor Brewing Co.|Anchor Brewing Company
-  San Francisco | CA //
-
-[alesmith]
-  AleSmith Brewing Co.|AleSmith Brewing Company
-  San Diego | CA //
-
-[speakeasy]
-  Speakeasy Ales and Lagers
-  San Francisco | CA //
 
 [lostcoast]
   Lost Coast Brewery
@@ -62,13 +45,6 @@
   Knee Deep Brewing Co.|Knee Deep Brewing Company
   Lincoln | CA //
 
-[goldenroad]
-  Golden Road Brewing
-  Los Angeles | CA //
-
-[shmaltz]
-  Shmaltz Brewing Co.|Shmaltz Brewing Company
-  San Francisco | CA //
 
 [hangartwentyfour]
   Hangar 24 Craft Brewery
@@ -82,19 +58,7 @@
   Moylan's Brewery
   Novato | CA //
 
-[karlstrauss]
-  Karl Strauss Brewing Co.|Karl Strauss Brewing Company
-  San Diego | CA //
-
-[pizzaport]
-  Pizza Port
-  Carlsbad | CA //
-
 [drakes]
   Drake's Brewing Co.|Drake's Brewing Company
   San Leandro | CA //
-
-[societebrewing]
-  Societe Brewing Co.
-  San Diego | CA //
 
