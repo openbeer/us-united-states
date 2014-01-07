@@ -2,5 +2,11 @@
 # Breweries in Virginia (VA) | South - South Atlantic
 
 
-Starr Hill Brewing Co.|Starr Hill Brewing Company, VA, Crozet | VA // 
-Blue Mountain Brewery, VA, Afton | VA // 
+[starrhill]
+  Starr Hill Brewing Co.|Starr Hill Brewing Company
+  Crozet | VA // 
+
+[bluemountain]
+  Blue Mountain Brewery
+  Afton | VA // 
+

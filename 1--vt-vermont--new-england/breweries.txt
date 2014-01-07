@@ -2,7 +2,16 @@
 # Breweries in Vermont (VT) | Northeast - New England
 
 
-magichat,         Magic Hat Brewing Co.|Magic Hat Brewing Company, VT, South Burlington | VT // 
-hillfarmstead,    Hill Farmstead Brewery, VT, Greensboro | VT // 
-longtrailbrewing, Long Trail Brewing Co.|Long Trail Brewing Company, VT, Bridgewater Corners | VT // 
+[magichat]
+  Magic Hat Brewing Co.|Magic Hat Brewing Company
+  South Burlington | VT // 
+
+[hillfarmstead]
+  Hill Farmstead Brewery
+  Greensboro | VT // 
+
+[longtrailbrewing]
+  Long Trail Brewing Co.|Long Trail Brewing Company
+  Bridgewater Corners | VT // 
+
 
