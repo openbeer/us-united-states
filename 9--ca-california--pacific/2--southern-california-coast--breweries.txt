@@ -1,16 +1,34 @@
 
 
+[firestonewalker]
+  Firestone Walker|Firestone Walker Brewing Co.|Firestone Walker Brewing Company
+  // Paso Robles, CA
+
 
 [greenflash]
-  Green Flash Brewing Co.
-  San Diego | CA //
+  Green Flash|Green Flash Brewing Co.
+  // San Diego, CA
+
+[lostabbe]
+  Lost Abbe
+
+
+[stone]
+  Stone|Stone Brewing Co.
+  // Escondido, CA
+
+
+
+[alpine]
+  Alpine
+
 
 [ballastpoint]
-  Ballast Point Brewing
-  San Diego | CA //
+  Ballast Point|Ballast Point Brewing
+  // San Diego, CA
 
 [alesmith]
-  AleSmith Brewing Co.|AleSmith Brewing Company, 1995
+  AleSmith Brewing Co.|AleSmith Brewing Company, 1995    # formerly spelled Alesmit ??
   alesmith.com
   wikipedia: AleSmith_Brewing_Company
   9368 Cabot Dr // San Diego, CA 92126
@@ -19,16 +37,16 @@
 
 [karlstrauss]
   Karl Strauss Brewing Co.|Karl Strauss Brewing Company
-  San Diego | CA //
+  // San Diego, CA 
 
 [societebrewing]
   Societe Brewing Co.
-  San Diego | CA //
+  // San Diego, CA
 
   
 
 
 [pizzaport]
   Pizza Port
-  Carlsbad | CA //
+  // Carlsbad, CA
 

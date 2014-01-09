@@ -1,27 +1,47 @@
+__________________________________________
+- San Francisco
 
-
-[anchorbrewing]
-  Anchor Brewing Co.|Anchor Brewing Company
-  San Francisco | CA //
+[anchor]
+  Anchor|Anchor Brewing Co.|Anchor Brewing Company, 1896
+  1705 Mariposa Street // San Francisco, CA 94107
+  wikipedia: Anchor_Brewing_Company
+  www.anchorbrewing.com
 
 [speakeasy]
-  Speakeasy Ales and Lagers
-  San Francisco | CA //
+  Speakeasy|Speakeasy Ales & Lagers, 1997
+  wikipedia: Speakeasy_Ales_and_Lagers
+  1195 Evans Ave // San Francisco, CA 94124
+
 
 [shmaltz]
-  Shmaltz Brewing Co.|Shmaltz Brewing Company
-  San Francisco | CA //
+  Shmaltz|Shmaltz Brewing Co.|Shmaltz Brewing Company, 1996
+  San Francisco, CA //
+  wikipedia: Shmaltz_Brewing_Company
+  www.shmaltzbrewing.com
 
 [twentyfirstamendment]
-  21st Amendment Brewery, 2000
+  21st Amendment|21st Amendment Brewery, 2000
   563 2nd St // San Francisco, CA 94107
   21st-amendment.com
   wikipedia: 21st_Amendment_Brewery
 
 
+__________________________________________________
+- Bay Area (Berkley, Oakland, San Jose)
 
 
+[trumerintl]
+  Trumer|Trumer Brauerei
+  1404 4th St // Berkeley, CA 94710
+  www.trumer-international.com
 
 
+## check - if is in bay area
+
+[drakes]
+  Drake's|Drake's Brewing Co.|Drake's Brewing Company, 1989
+  San Leandro, CA
+  drinkdrakes.com
+  wikipedia: Drake's_Brewing_Company
 
 

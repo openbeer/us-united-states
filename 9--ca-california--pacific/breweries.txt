@@ -4,61 +4,28 @@
 # - uncategorized - move to los angeles/souther california coast/etc.
 
 
-[stonebrewing]
-  Stone Brewing Co.
-  Escondido | CA //
-  
-[lagunitas]
-  Lagunitas Brewing Co.|Lagunitas Brewing Company
-  Petaluma | CA //
+[bjsbrewhouse]
+  BJ's Brewhouse
+  // Huntington Beach, CA
 
-[sierranevada]
-  Sierra Nevada Brewing Co.
-  Chico | CA //
-
-[firestonewalker]
-  Firestone Walker Brewing Co.|Firestone Walker Brewing Company
-  Paso Robles | CA //
-
-[bearrepublic]
-  Bear Republic Brewing Co.
-  Healdsburg | CA //
 
 [thebruery]
   The Bruery
-  Placentia | CA //
+  // Placentia, CA
 
-[andersonvalley]
-  Anderson Valley Brewing Co.|Anderson Valley Brewing Company
-  Boonville | CA //
-
-
-[lostcoast]
-  Lost Coast Brewery
-  Eureka | CA //
-
-[bjsbrewhouse]
-  BJ's Brewhouse
-  Huntington Beach | CA //
 
 [kneedeep]
   Knee Deep Brewing Co.|Knee Deep Brewing Company
-  Lincoln | CA //
-
+  // Lincoln, CA
 
 [hangartwentyfour]
   Hangar 24 Craft Brewery
-  Redlands | CA //
+  // Redlands, CA
 
 [bootleggers]
   Bootlegger's Brewery
-  Fullerton | CA //
+  // Fullerton, CA
 
 [moylans]
   Moylan's Brewery
-  Novato | CA //
-
-[drakes]
-  Drake's Brewing Co.|Drake's Brewing Company
-  San Leandro | CA //
-
+  // Novato, CA

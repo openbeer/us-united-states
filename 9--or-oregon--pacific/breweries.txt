@@ -1,20 +1,66 @@
 ##############################################################
-# Breweries in Oregon (OR) | Pacific - West
+# Breweries in Oregon (OR) // Pacific Northwest
 
 ______________________________________
 - Portland
 
-widmer,     Widmer Brothers Brewing, OR, Portland | OR // 
-laurelwood, Laurelwood Brewing Co., OR, Portland | OR // 
+[widmer]
+  Widmer|Widmer Brothers Brewing
+  // Portland, OR
+
+[bridgeport]
+  Bridgeport
+  // Portland, OR
+
+[hairofthedog]
+  Hair of the Dog
+  // Portland, OR
+
+[hopworks]
+  Hopworks
+  // Portland, OR
+
+[mactarnahans]
+  Mactarnahan's
+  // Portland, OR
+
+
+[laurelwood]
+  Laurelwood|Laurelwood Brewing Co.
+   // Portland, OR
 
 
 _______________________________________
 - Oregon
 
-rogueales,  Rogue Ales, OR, Newport | OR // 
-deschutes,  Deschutes Brewery, OR, Bend | OR // 
-boneyard,   Boneyard Beer Company, OR, Bend | OR //
+[pelican]
+  Pelican
 
-ninkasi,    Ninkasi Brewing Co.|Ninkasi Brewing Company, OR, Eugene | OR //
+[rogue]
+  Rogue|Rogue Ales
+  Newport, OR // 
+
+[fullsail]
+  Full Sail
+
+[terminalgravity]
+  Terminal Gravity
+
+
+[deschutes]
+  Deschutes|Deschutes Brewery
+  Bend, OR // 
+
+
+[caldera]
+  Caldera
+
+[boneyard]
+  Boneyard|Boneyard Beer Company
+  Bend, OR //
+
+[ninkasi]
+  Ninkasi|Ninkasi Brewing Co.|Ninkasi Brewing Company
+  Eugene, OR //
 
 

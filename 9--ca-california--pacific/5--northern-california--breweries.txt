@@ -1,0 +1,59 @@
+
+
+[lostcoast]
+  Lost Coast Brewery
+  // Eureka, CA
+
+[madriver]
+  Mad River
+
+[eelriver]
+  Eel River
+
+[northcoast]
+  North Coast
+
+[buttecreek]
+  Butte Creek
+
+[sierranevada]
+  Sierra Nevada|Sierra Nevada Brewing Co.
+  // Chico, CA
+
+
+[andersonvalley]
+  Anderson Valley|Anderson Valley Brewing Co.|Anderson Valley Brewing Company
+  // Boonville, CA
+
+
+[mendocino]
+  Mendocino
+
+
+[bearrepublic]
+  Bear Republic|Bear Republic Brewing Co.
+  // Healdsburg, CA
+
+
+[moonlight]
+  Moonlight
+
+[russianriver]
+  Russian River
+
+[lagunitas]
+  Lagunitas Brewing Co.|Lagunitas Brewing Company
+  // Petaluma, CA
+
+
+[sacramento]
+  Sacramento
+
+[sudwerk]
+  Sudwerk
+
+###
+# check move marin to bay area??
+
+[marin]
+  Marin

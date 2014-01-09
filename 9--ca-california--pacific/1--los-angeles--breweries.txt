@@ -1,6 +1,8 @@
 
 [goldenroad]
   Golden Road Brewing
-  Los Angeles | CA //
+  // Los Angeles, CA
+
+
 
 

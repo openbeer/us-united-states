@@ -4,6 +4,10 @@
 
 [alaskan]
   Alaskan Brewing Co.|Alaskan Brewery Company, 1986
-  city:juneau
-  Juneau | AK 99801-9540 // 5429 Shaune Dr.
+  Juneau, AK 99801-9540 // 5429 Shaune Dr.
+
+
+[midnightsun]
+  Midnight Sun
+
 
