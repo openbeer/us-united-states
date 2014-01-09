@@ -1,0 +1,18 @@
+##############################
+# Beers in Alaska (AK)
+
+_____________________________
+- Alaskan Brewing, Juneau
+
+Alaskan Pale, 5.2%, golden_ale   #  color: 7 srm, og: 1.047, bitterness: 24 IBU  -- style: check is golde ale just a pale ale?
+Alaskan Amber, 5.3%, alt         #  color: 22 srm, og: 1.054, bitterness: 18 IBU  -- style: what to do with alt ?? same as old ale  ??
+Alaskan IPA|Alaskan India Pale Ale, 6.2%, ipa|india_pale_ale    # color: 9 srm, og: 1.057, bitterness:  55 IBU
+
+# nb: alaskan is a limited edition (add a flag? different from seasonal?)
+# see www.alaskanbeer.com/smoked-porter.html
+Alaskan Smoked Porter, 6.5%,  porter     # color: 92 srm, original gravity: 1.068, bitterness: 45 IBU  -- style rauchbier
+
+
+_______________________
+- Midnight Sun
+

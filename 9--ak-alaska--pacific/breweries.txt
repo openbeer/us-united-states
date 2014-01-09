@@ -1,5 +1,5 @@
-##############################################
-# Breweries in Alaska (AK) | Pacific - West
+##############################
+# Breweries in Alaska (AK)
 
 
 [alaskan]

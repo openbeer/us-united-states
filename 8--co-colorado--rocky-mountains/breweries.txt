@@ -1,48 +1,80 @@
-#################################################
-# Breweries in Colorado (CO) | West - Mountain
+#########################################################
+# Breweries in Colorado (CO) // Rocky Mountains
 
 
-[coors]
-  Coors Brewing Co.|Coors Brewing Company
-  Golden | CO // 
-
-[newbelgium]
-  New Belgium Brewing Co.|New Belgium Brewing Company
-  Fort Collins | CO // 
-
-[avery]
-  Avery Brewing Co.|Avery Brewing Company
-  Boulder | CO // 
-
-[oskarblues]
-  Oskar Blues Brewery
-  Longmont | CO // 
-
-[lefthand]
-  Left Hand Brewing Co.|Left Hand Brewing Company
-  Longmont | CO // 
-
-[greatdivide]
-  Great Divide Brewing Co.|Great Divide Brewing Company
-  Denver | CO // 
+_______________________________
+- Denver
 
 [breckenridge]
-  Breckenridge Brewery
-  Denver | CO // 
+  Breckenridge|Breckenridge Brewery
+  // Denver, CO
 
-[odell]
-  Odell Brewing Co.
-  Fort Collins | CO // 
+[flyingdog]
+  Flying Dog
 
-[boulder]
-  Boulder Beer Co.|Boulder Beer Company
-  Boulder | CO // 
+[greatdivide]
+  Great Divide|Great Divide Brewing Co.|Great Divide Brewing Company
+  // Denver, CO
 
-[skabrewing]
-  Ska Brewing
-  Durango | CO // 
+[wynkoop]
+  Wynkoop
+  // Denver, CO
 
 [crookedstave]
   Crooked Stave Artisan Beer Project
-  Denver | CO // 
+  // Denver, CO
+
+
+
+________________________________
+- Colorado
+
+
+[coors]
+  Coors|Coors Brewing Co.|Coors Brewing Company
+  // Golden, CO
+
+
+[newbelgium]
+  New Belgium|New Belgium Brewing Co.|New Belgium Brewing Company
+  // Fort Collins, CO
+
+[odell]
+  Odell|Odell Brewing Co.
+  // Fort Collins, CO
+
+
+[oskarblues]
+  Oskar Blues|Oskar Blues Brewery
+  // Longmont, CO
+
+
+[lefthand]
+  Left Hand|Left Hand Brewing Co.|Left Hand Brewing Company
+  // Longmont, CO
+
+
+
+[avery]
+  Avery Brewing Co.|Avery Brewing Company
+  // Boulder, CO
+
+[boulder]
+  Boulder Beer Co.|Boulder Beer Company
+  // Boulder, CO
+
+[tommyknocker]
+  Tommyknocker
+
+[bristol]
+  Bristol
+
+
+[ska]
+  Ska|Ska Brewing
+  // Durango, CO
+
+[steamworks]
+  Steamworks
+
 

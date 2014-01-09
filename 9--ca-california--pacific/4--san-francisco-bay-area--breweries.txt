@@ -36,8 +36,6 @@ __________________________________________________
   www.trumer-international.com
 
 
-## check - if is in bay area
-
 [drakes]
   Drake's|Drake's Brewing Co.|Drake's Brewing Company, 1989
   San Leandro, CA

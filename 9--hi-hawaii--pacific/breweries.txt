@@ -1,6 +1,6 @@
 ##############################################
-# Breweries in Hawaii (HI) | Pacific - West
- 
+# Breweries in Hawaii (HI)
+
 
 [kona]
   Kona Brewing Co.|Kona Brewing Company

@@ -1,31 +1,47 @@
-########################################################
-# Breweries in Texas (TX) | South - West South Central
+##############################
+# Breweries in Texas (TX) 
 
+[realale]
+  Real Ale
 
+[liveoak]
+  Live Oak
+
+[petes]
+  Pete's
+
+[shiner]
+  Shiner
 
 [spoetzl]
   Spoetzl Brewery
-  Shiner | TX // 
+  // Shiner, TX
+
+
+
+[saintarnold]
+  Saint Arnold|Saint Arnold Brewing Co.|Saint Arnold Brewing Company
+  // Houston, TX
 
 [karbach]
   Karbach Brewing Co
-  Houston | TX // 
+  // Houston, TX
+
 
 [jesterking]
   Jester King Craft Brewery
-  Austin | TX // 
-
-[saintarnold]
-  Saint Arnold Brewing Co.|Saint Arnold Brewing Company
-  Houston | TX // 
-
-[deepellum]
-  Deep Ellum Brewing Co.|Deep Ellum Brewing Company
-  Dallas | TX // 
+  // Austin, TX
 
 [hopsngrain]
   Hops & Grain
-  Austin | TX // 
+  // Austin, TX
 
-# fix: can handle key starting w/ number??
-# 1512 Brewing Company, TX, Austin | TX // 
+[fifteentwelve]   # use different key ?? - note: cannot handle key starting w/ number??
+  1512 Brewing Company
+  // Austin, TX
+
+
+
+[deepellum]
+  Deep Ellum Brewing Co.|Deep Ellum Brewing Company
+  // Dallas, TX
