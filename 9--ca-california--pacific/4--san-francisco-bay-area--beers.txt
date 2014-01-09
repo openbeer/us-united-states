@@ -1,0 +1,27 @@
+
+____________________________________________
+- 21st Amendment Brewery, San Francisco
+
+Amber Waves,      amber_ale
+Bitter American,  4.4%,   session_pale_ale|light_pale_ale
+Diesel Imperial Smoked Porter,  smoked_porter
+Double Trouble Imperial IPA,    imperial_india_pale_ale
+Holiday Spiced Ale,            winter_warmer
+
+Hop Crisis!, 9.7%,   imperial_india_pale_ale    # IBU 94
+
+HQT,     indigenous_ale
+Imperial Jack,  imperial_extra_special_bitter
+MCA,     stout
+Shot Tower Stout,  stout
+
+Seasonal Hell
+High Watermelon
+Bree Free! or Die IPA
+Back in Black,  6.8%,    black_ipa     # IBU 65
+
+
+_____________________________________________
+- Shmaltz Brewing Co, San Francisco
+
+

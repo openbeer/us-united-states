@@ -1,0 +1,28 @@
+
+______________________________________
+-  AleSmith Brewing Co, San Diego
+
+Bloody Valentine, pale_ale
+Grand Cru,  belgian_strong_ Ale
+
+Old Numbskull, barley_wine
+
+AleSmith X,  5.5%,  american_pale_ale
+Anvil Ale, extra_special_bitter
+AleSmith IPA,   ipa
+Lil Devil,  5.5%,  belgian_pale_ale
+Horny Devil,  11%,   belgian_strong_ale
+Wee Heavy,   scotch_ale
+Speedway Stout,  imperial_stout
+
+
+
+_________________________________________
+- Green Flash Brewing Co, San Diego
+
+
+__________________________________________
+- Ballast Point Brewing, San Diego
+
+
+

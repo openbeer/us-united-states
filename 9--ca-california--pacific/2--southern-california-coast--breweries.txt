@@ -10,8 +10,12 @@
   San Diego | CA //
 
 [alesmith]
-  AleSmith Brewing Co.|AleSmith Brewing Company
-  San Diego | CA //
+  AleSmith Brewing Co.|AleSmith Brewing Company, 1995
+  alesmith.com
+  wikipedia: AleSmith_Brewing_Company
+  9368 Cabot Dr // San Diego, CA 92126
+
+
 
 [karlstrauss]
   Karl Strauss Brewing Co.|Karl Strauss Brewing Company
@@ -20,6 +24,8 @@
 [societebrewing]
   Societe Brewing Co.
   San Diego | CA //
+
+  
 
 
 [pizzaport]
