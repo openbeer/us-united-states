@@ -10,13 +10,11 @@
 [petes]
   Pete's
 
-[shiner]
-  Shiner
-
 [spoetzl]
-  Spoetzl Brewery
-  // Shiner, TX
-
+  Spoetzl Brewery, 1909
+  603 E Brewery St // Shiner, TX 77984
+  www.shiner.com
+  brands: Shiner
 
 
 [saintarnold]

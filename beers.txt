@@ -1,9 +1,19 @@
 
+Bud Lite, 4.2%, lager|lite
+Budweiser, 5%,  lager
 
-_________________________________
-- fix: Miller ??
 
+Miller Lite, 4.2%, lager|lite
 Miller Genuine Draft
+
+Busch Light, 4.2%, lager|lite
+Michelob Light, 4.2%, lager|lite
+
+
+### -- Pabst, Schlitz, Lone Star  contract brewed
+Pabst, 5%, lager
+Schlitz, 4.7%, lager
+Lone Star, 4.7%, lager
 
 
 ___________________________________________

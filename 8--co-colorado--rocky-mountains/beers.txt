@@ -22,6 +22,9 @@ ______________________________________
 ________________________________
 - Coors Brewing, Golden
 
+Coors Light, 4.2%, lager|lite
+
+
 ____________________________________
 - New Belgium Brewing, Fort Collins
 

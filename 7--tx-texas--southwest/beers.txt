@@ -10,11 +10,24 @@ ________________________________
 ________________________________
 - Pete's
 
-__________________________________
-- Shiner
-
 ________________________________
 - Spoetzl Brewery, Shiner
+
+Shiner Bock,  4.4%,  american_dark_lager    # IBU: 13 -- shiner.com/beer/bock 
+Shiner White Wing, 4.7%, belgian_wheat_ale      # IBU: 15 -- shiner.com/beer/white-wing
+Shiner Wild Hare, 5.5%,  pale_ale        # IBU: 32  -- shiner.com/beer/wild-hare
+Shiner Premium,  4.4%, golden_lager              #  IBU: 13 -- shiner.com/beer/premium
+Shiner Oktoberfest, maerzen
+Shiner Light Blonde
+Shiner Rye & Shine
+Shiner Holiday Cheer
+Shiner Black, bohemian_black_lager
+Shiner Kosmos Rerserve,  5%, lager      # IBU: 18 -- shiner.com/beer/kosmos
+Shiner FM 966,  5.7%,  farmhouse_ale              # IBU: 21  -- shiner.com/beer/fm-966
+Shiner Ruby Redbird,  4.01%, seasonal|summer    # IBU: 13  -- shiner.com/beer/ruby-redbird
+
+
+
 
 _________________________________
 - Saint Arnold Brewing, Houston
