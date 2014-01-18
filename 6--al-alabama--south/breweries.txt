@@ -1,2 +1,2 @@
-#########################################################
-# Breweries in Alabama | South - East South Central
+######################################
+# Breweries in Alabama (AL) | South

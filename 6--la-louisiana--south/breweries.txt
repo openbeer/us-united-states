@@ -1,5 +1,5 @@
-##############################################################
-# Breweries in Louisiana (LA) | South - West South Central
+#########################################
+# Breweries in Louisiana (LA) | South
 
 
 [dixie]

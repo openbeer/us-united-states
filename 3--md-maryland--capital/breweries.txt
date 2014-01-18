@@ -1,5 +1,5 @@
-#########################################################
-# Breweries in Maryland (MD) | South - South Atlantic
+#################################################
+# Breweries in Maryland (MD) | Capital Regions
 
 
 [flyingdog]

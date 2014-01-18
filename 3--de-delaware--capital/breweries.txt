@@ -1,6 +1,5 @@
-#########################################################
-# Breweries in Delaware (DE) | South - South Atlantic
-
+################################################
+# Breweries in Delaware (DE) | Capital Region
 
 [dogfish]
   Dogfish Head Craft Brewery

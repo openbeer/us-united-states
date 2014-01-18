@@ -1,5 +1,5 @@
-##############################################################
-# Breweries in Virginia (VA) | South - South Atlantic
+##################################################
+# Breweries in Virginia (VA) | Capital Region
 
 
 [starrhill]

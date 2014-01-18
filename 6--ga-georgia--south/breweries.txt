@@ -1,5 +1,5 @@
-#######################################################
-# Breweries in Georgia (GA) | South - South Atlantic
+########################################
+# Breweries in Georgia (GA) | South 
 
 
 [terrapin]

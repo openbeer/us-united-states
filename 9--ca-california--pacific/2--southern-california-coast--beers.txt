@@ -1,5 +1,7 @@
+#########################################################
+# Beers in California (CA) / Southern California Coast
 
-______________________________________
+_______________________________________
 -  AleSmith Brewing Co, San Diego
 
 Bloody Valentine, pale_ale

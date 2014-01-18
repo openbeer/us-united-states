@@ -1,2 +1,3 @@
-#########################################################
-# Breweries in Mississippi | South - East South Central
+##########################################
+# Breweries in Mississippi (MS) | South
+

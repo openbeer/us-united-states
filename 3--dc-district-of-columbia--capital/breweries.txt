@@ -1,2 +1,3 @@
-##############################################################
-# Breweries in District of Columbia | South - South Atlantic
+#######################################################
+# Breweries in District of Columbia | Capital Region
+

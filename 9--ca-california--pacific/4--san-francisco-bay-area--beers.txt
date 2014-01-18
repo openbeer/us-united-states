@@ -1,3 +1,6 @@
+###################################################################
+# Beers in California (CA) / San Francisco n Bay Area
+
 
 ____________________________________________
 - 21st Amendment Brewery, San Francisco
@@ -8,7 +11,7 @@ Diesel Imperial Smoked Porter,  smoked_porter
 Double Trouble Imperial IPA,    imperial_india_pale_ale
 Holiday Spiced Ale,            winter_warmer
 
-Hop Crisis!, 9.7%,   imperial_india_pale_ale    # IBU 94
+## Hop Crisis!, 9.7%,   imperial_india_pale_ale    # IBU 94   -- fix!! add ! to title_to_key config
 
 HQT,     indigenous_ale
 Imperial Jack,  imperial_extra_special_bitter
@@ -17,7 +20,7 @@ Shot Tower Stout,  stout
 
 Seasonal Hell
 High Watermelon
-Bree Free! or Die IPA
+## Bree Free! or Die IPA   # -- fix!! add ! to title_to_key
 Back in Black,  6.8%,    black_ipa     # IBU 65
 
 

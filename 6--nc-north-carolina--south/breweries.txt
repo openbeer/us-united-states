@@ -1,5 +1,5 @@
-##############################################################
-# Breweries in North Carolina (NC) | South - South Atlantic
+##############################################
+# Breweries in North Carolina (NC) | South
 
 [foothills]
   Foothills Brewing
