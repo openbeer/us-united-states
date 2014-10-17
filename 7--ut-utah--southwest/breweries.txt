@@ -3,10 +3,14 @@
 
 
 [uinta]
-  Uinta Brewing Co.|Uinta Brewingmpany
+  Uinta Brewing Co.|Uinta Brewing Company
   Salt Lake City | UT // 
 
 [epic]
   Epic Brewing Co.
   Salt Lake City | UT // 
+  
+[squatters]
+  Squatters Brew Pub
+  Salt Lake City | UT //
 
