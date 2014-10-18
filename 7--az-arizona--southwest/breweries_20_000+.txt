@@ -1,0 +1,7 @@
+#########################################################
+# Breweries in Arizona | West - Mountain
+
+[fourpeaks]
+  Four Peaks Brewing Co
+  1340 E 8th St Ste 104 // Tempe, AZ 85281-4396
+  www.fourpeaks.com

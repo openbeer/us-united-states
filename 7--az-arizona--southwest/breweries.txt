@@ -1,2 +1,141 @@
 #########################################################
 # Breweries in Arizona | West - Mountain
+
+[]
+  Barnstar Brewing
+  PO Box 60 // Skull Valley, AZ 86338-0060
+  www.barnstarbrew.com
+
+[]
+  Barrio Brewing Co
+  800 E 16th St // Tucson, AZ 85719-6603
+  www.barriobrewing.com
+
+[]
+  Borderlands Brewing Co
+  119 E Toole Ave // Tucson, AZ 85701-1210
+  www.borderlandsbrewing.com
+
+[]
+  Desert Eagle Brewing Company
+  150 W Main St // Mesa, AZ 85201-7310
+  www.deserteaglebrewing.com
+
+[]
+  Dragoon Brewing Co
+  1859 W Grant Rd Ste 111 // Tucson, AZ 85745-1214
+  www.dragoonbrewing.com
+
+[]
+  Electric Brewing Co
+  PO Box 354 // Bisbee, AZ 85603-0354
+
+[]
+  Four Peaks Brewery & Taproom
+  2401 S Wilson St // Tempe, AZ 85282-2054
+  www.fourpeaks.com
+
+[]
+  Freak'N Brewing Company
+  9299 W Olive Ave Ste 513 // Peoria, AZ 85345-8385
+  www.freaknbrew.com
+
+[]
+  Grand Canyon Brewery
+  233 W Route 66 // Williams, AZ 86046-2530
+  www.grandcanyonbrewingco.com
+
+[]
+  Granite Mountain Brewing
+  PO Box 1109 - 123 N Cortez St // Prescott, AZ 86302-1109
+  www.granitemountainbrewing.com
+
+[]
+  Historic Brewing Company
+  4366 E Huntington Dr Bldg 2 // Flagstaff, AZ 86004-9400
+  www.historicbrewingcompany.com
+
+[]
+  Huss Brewing
+  1520 W Mineral Rd Ste 102 // Tempe, AZ 85283-4343
+
+[]
+  Mother Road Brewing Co
+  7 S Mikes Pike // Flagstaff, AZ 86001-5589
+  www.motherroadbeer.com
+
+[]
+  Mudshark Brewing Co
+  210 Swanson Ave // Lake Havasu City, AZ 86403-0966
+  www.mudsharkbrewingco.com
+
+[]
+  Nimbus Brewing Co
+  3850 E 44th St Ste 138 // Tucson, AZ 85713-5472
+  www.nimbusbeer.com
+
+[]
+  Oak Creek Brewing Co
+  2050 Yavapai Dr Ste 2C // Sedona, AZ 86336-4559
+  www.oakcreekbrew.com
+
+[]
+  Old Bisbee Brewing
+  200 Review Alley // Bisbee, AZ 85603
+  www.oldbisbeebrewingcompany.com
+
+[]
+  Old World Brewery Inc
+  334 N 25th Ave // Phoenix, AZ 85009-4424
+  www.oldworldbrewery.com
+
+[]
+  Peoria Artisan Brewery
+  107 W Honeysuckle St // Litchfield Park, AZ 85340-4322
+  www.peoriaartisanbrewing.com
+
+[]
+  Prescott Brewing Co - Production Facility
+  6396 Lear Ln // Prescott, AZ 86301-9118
+  www.prescottbrewingcompany.com
+
+[]
+  SanTan Brewing Co
+  8 S San Marcos Pl // Chandler, AZ 85225-7862
+  www.santanbrewing.com
+
+[]
+  Sleepy Dog Brewing Co
+  1920 E University Dr // Tempe, AZ 85281-4608
+  www.sleepydogbrewing.com
+
+[]
+  Sonoran Brewing
+  3002 E Washington St // Phoenix, AZ 85034-1518
+  www.sonoranbrewing.com
+
+[]
+  Ten Fifty Five Brewing
+  3810 E 44th St Ste 315 // Tucson, AZ 85713-5474
+  www.1055brewing.com
+
+[]
+  The Address Brewing / 1702 Beer & Pizza
+  1702 E Speedway Blvd // Tucson, AZ 85719-4515
+  www.1702az.com
+
+[]
+  The Phoenix Ale Brewery
+  3002 E Washington St // Phoenix, AZ 85034-1518
+  www.phoenixbrew.com
+
+[]
+  Verde Brewing Company
+  348 S Main St // Camp Verde, AZ 86322-7155
+  www.verdebrewing.com
+
+[]
+  Wanderlust Brewing Company
+  1519 N Main St Ste 102 // Flagstaff, AZ 86004-4970
+  www.wanderlustbrewing.com
+

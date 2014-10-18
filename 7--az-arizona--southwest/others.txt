@@ -1,0 +1,13 @@
+###############################
+# contract brewerers or other
+
+[]
+  Bad Water Brewing
+  // Phoenix, AZ 85016
+  www.badwaterbrewing.com
+
+[]
+  Papago Brewing Co
+  7107 E McDowell Rd // Scottsdale, AZ 85257-3315
+  www.papagobrewing.com
+

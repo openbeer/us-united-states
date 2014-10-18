@@ -1,0 +1,101 @@
+#########################################################
+# Brewpubs in Arizona | West - Mountain
+
+[]
+  Arizona Wilderness Brewing
+  721 N Arizona Ave Ste 103 //  Gilbert, AZ 85233-3405
+  www.azwbeer.com
+
+[]
+  Barley Brothers Brewery
+  1425 McCulloch Blvd N // Lake Havasu City, AZ 86403-6597
+  www.barleybrothers.com
+
+[]
+  Beaver Street Brewery
+  11 S Beaver St Ste 1 // Flagstaff, AZ 86001-5500
+  www.beaverstreetbrewery.com
+
+[]
+  BJs Restaurant & Brewery - Chandler
+  3155 W Chandler Blvd // Chandler, AZ 85226-5175
+  www.bjsrestaurants.com
+
+[]
+  Cartel Brewery
+  225 W University Dr Ste 103 // Tempe, AZ 85281-3666
+  www.cartelbrewery.com
+
+[]
+  College Street Brewhouse and Pub
+  1940 College Dr // Lake Havasu City, AZ 86403-1981
+
+[]
+  Fate Brewing Company
+  7337 E Shea Blvd Ste 105 // Scottsdale, AZ 85260-6465
+  www.fatebrewing.com
+
+[]
+  Flagstaff Brewing Co
+  16 E Route 66 // Flagstaff, AZ 86001-5792
+  www.flagbrew.com
+
+[]
+  Gordon Biersch Brewery Restaurant - Glendale
+  6915 N 95th Ave // Glendale, AZ 85305-2488
+  www.gordonbierschrestaurants.com
+
+[]
+  Gordon Biersch Brewery Restaurant - Tempe
+  420 S Mill Ave Ste 201 // Tempe, AZ 85281-2870
+  www.gordonbierschrestaurants.com
+
+[]
+  Lumberyard Brewing Co Taproom and Grille
+  5 S San Francisco St // Flagstaff, AZ 86001-5736
+  www.lumberyardbrewingcompany.com
+
+[]
+  North Mountain Brewing Co
+  522 E Dunlap Ave // Phoenix, AZ 85020-2916
+  www.northmountainbrewing.com
+
+[]
+  O.H.S.O. Eatery + NanoBrewery
+  4900 E Indian School Rd // Phoenix, AZ 85018-5554
+  www.ohsobrewery.com
+
+[]
+  Oak Creek Brewery & Grill
+  336 State Route 179 Ste D201 // Sedona, AZ 86336-6183
+
+[]
+  Prescott Brewing Co
+  130 W Gurley St Ste A // Prescott, AZ 86301-3603
+  www.prescottbrewingcompany.com
+
+[]
+  Rock Bottom Brewery - Arrowhead
+  7640 W Bell Rd // Glendale, AZ 85308-8619
+  www.rockbottom.com
+
+[]
+  Rock Bottom Brewery - Desert Ridge
+  21001 N Tatum Blvd #38 1350 //  Phoenix, AZ 85308
+  www.rockbottom.com
+
+[]
+  Sun Up Brewery
+  322 E Camelback Rd // Phoenix, AZ 85012-1614
+  www.sunupbrewing.com
+
+[]
+  THAT Brewery & Pub At Rimside
+  3270 N Hwy 87 // Pine, AZ 85544
+  www.thatbrewery.com
+
+[]
+  Thunder Canyon Brewery
+  7401 N La Cholla Blvd Ste 178 // Tucson, AZ 85741-2333
+  www.thundercanyonbrewery.com
+
