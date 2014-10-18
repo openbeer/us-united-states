@@ -2,12 +2,77 @@
 # Breweries in Alaska (AK)
 
 
-[alaskan]
-  Alaskan Brewing Co.|Alaskan Brewery Company, 1986
-  Juneau, AK 99801-9540 // 5429 Shaune Dr.
+[]
+  Anchorage Brewing Co
+  1601 Bannister Dr // Anchorage, AK 99508-4058
+  www.anchoragebrewingcompany.com
 
+[]
+  Arkose Brewery
+  650 E Steel Loop Commercial Center // Palmer, AK 99645-6689
+  www.arkosebrewery.com
+
+[]
+  Baranof Island Brewing Co
+  212 Smith St Ste 4 // Sitka, AK 99835-9816
+  www.baranofislandbrewing.com
+
+[]
+  Broken Tooth Brewing Co
+  2021 Spar Ave // Anchorage, AK 99501-1815
+
+[]
+  Denali Brewing Co
+  PO Box 1021 // Talkeetna, AK 99676-1021
+  www.denalibrewingcompany.com
+
+[]
+  Haines Brewing Co
+  PO Box 911 // Haines, AK 99827-0911
+  www.hainesbrewing.com
+
+[]
+  Homer Brewing Co
+  1411 Lake Shore Dr // Homer, AK 99603-7945
+  www.homerbrew.com
+
+[]
+  HooDoo Brewing Co
+  1951 Fox Ave // Fairbanks, AK 99701-2701
+  www.hoodoobrew.com
+
+[]
+  Kassik's Brewery
+  47160 Spruce Haven St // Kenai, AK 99611-9677
+  www.kassiksbrew.com
+
+[]
+  Kenai River Brewing Co
+  241 N Aspen Dr Ste 100 // Soldotna, AK 99669-7556
+  www.kenairiverbrewing.com
+
+[]
+  King Street Brewing Co
+  7924 King St // Anchorage, AK 99518-3058
+  www.kingstreetbrewing.com
+
+[]
+  Kodiak Island Brewing Co, LLC
+  117 Lower Mill Bay Rd // Kodiak, AK 99615-6580
+  www.kodiakbrewery.com
 
 [midnightsun]
-  Midnight Sun
+  Midnight Sun|Midnight Sun Brewing Co
+  8111 Dimond Hook Dr // Anchorage, AK 99507-3144
+  www.midnightsunbrewing.com
+
+[]
+  Silver Gulch Brewing Co
+  PO Box 82125 // Fairbanks, AK 99708-2125
+  www.silvergulch.com
+
+[]
+  St Elias Brewing Co
+  PO Box 1141 // Soldotna, AK 99669-1141
 
 

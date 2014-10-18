@@ -1,0 +1,9 @@
+##############################
+# Breweries in Alaska (AK)
+
+
+[alaskan]
+  Alaskan Brewing Co.|Alaskan Brewery Company, 1986
+  Juneau, AK 99801-9540 // 5429 Shaune Dr.
+  www.alaskanbeer.com
+

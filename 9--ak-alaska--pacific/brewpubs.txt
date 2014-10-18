@@ -1,0 +1,32 @@
+##############################
+# Brewpubs in Alaska (AK)
+
+[]
+  49th State Brewing Co
+  PO Box 107 // Denali National Park, AK 99755-0107
+  www.49statebrewing.com
+
+[]
+  Glacier Brewhouse
+  737 W 5th Ave Ste 110 // Anchorage, AK 99501-2129
+  www.glacierbrewhouse.com
+
+[]
+  Last Frontier Brewing Company
+  212 N Boundary St // Wasilla, AK 99654-7127
+
+[]
+  Seward Brewing
+  139 Fourth Ave // Seward, AK 99664
+  www.sewardbrewingcompany.com
+
+[]
+  Skagway Brewing Co
+  PO Box 946 // Skagway, AK 99840-0946
+  www.skagwaybrewing.com
+
+[]
+  Sleeping Lady Brewing Co/Snow Goose Restaurant
+  717 W 3rd Ave // Anchorage, AK 99501-2104
+  www.alaskabeers.com
+
