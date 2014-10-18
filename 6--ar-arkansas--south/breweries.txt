@@ -1,3 +1,42 @@
 ########################################
 # Breweries in Arkansas (AR) | South
 
+[]
+  Core Brewing & Distilling Co
+  2470 Lowell Rd // Springdale, AR 72764
+  www.corebeer.com
+
+[]
+  Diamond Bear Brewing Co
+  600 N Broadway St // North Little Rock, AR 72114-5381
+  www.diamondbear.com
+
+[]
+  Flyway Brewing Co
+  // Little Rock, AR
+
+[]
+  Fossil Cove Brewing Co
+  1946 N Birch Ave // Fayetteville, AR 72703-2408
+  www.fossilcovebrewing.com
+
+[]
+  Ozark Beer Company
+  1700 S 1st St // Rogers, AR 72756-5923
+  www.ozarkbeercompany.com
+
+[]
+  Refined Ale Brewery
+  2221 S Cedar St // Little Rock, AR 72204-5452
+  www.refinedale.com
+
+[]
+  Saddlebock Brewery
+  18244 Habberton Rd // Springdale, AR 72764-7582
+  www.saddlebock.com
+
+[]
+  Stones Throw Brewing
+  402 E 9th St // Little Rock, AR 72202-3914
+  www.stonesthrowbeer.com
+
