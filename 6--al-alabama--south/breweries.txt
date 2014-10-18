@@ -1,2 +1,84 @@
 ######################################
 # Breweries in Alabama (AL) | South
+
+
+
+[]
+  Avondale Brewing Co
+  201 41st St S // Birmingham, AL 35222-1932
+  www.avondalebrewing.com
+
+[]
+  Back Forty Beer Co
+  200 N 6th St // Gadsden, AL 35901-3361
+  www.backfortybeer.com
+
+[]
+  Black Warrior Brewing Co.
+  2216 University Blvd // Tuscaloosa, AL 35401-1542
+  www.blackwarriorbrewing.com
+
+
+[]
+  Blue Pants Brewery
+  500 Lanier Rd, Bld 1 - Ste A // Madison, AL 35758-8675
+  www.bluepantsbrew.com
+
+[]
+  Cahaba Brewing Co
+  2616 3rd Ave S // Birmingham, AL 35233-2619
+  www.cahababrewing.com
+
+[]
+  Chattahoochee Brewing Co
+  505 13th St // Phenix City, AL 36867-5126
+  www.chattahoocheebrewingcompany.com
+
+[]
+  Druid City Brewing
+  607 14th St // Tuscaloosa, AL 35401-3439
+  www.druidcitybrewing.com
+
+[]
+  Fairhope Brewing Co
+  914 Nichols Ave // Fairhope, AL 36532-3684
+  www.fairhopebrewing.com
+
+[]
+  Folklore Brewing & Meadery, LLC
+  153 Mary Lou Ln // Dothan, AL 36301-9521
+  www.folklorebrewing.com
+
+[]
+  Good People Brewing Co
+  114 14th St S // Birmingham, AL 35233-1415
+  www.goodpeoplebrewing.com
+
+[]
+  Joe Beer - Handcrafted Ales
+  16 Public Sq W Ste 1 // Jacksonville, AL 36265
+
+[]
+  Singin' River Brewing Company, LLC
+  526 E College St // Florence, AL 35630-5764
+  www.singinriverbrewery.com
+
+[]
+  Straight to Ale
+  3200 Leeman Ferry Rd SW // Huntsville, AL 35801-5332
+  www.straighttoale.com
+
+[]
+  The Brew Stooges
+  109 Maple Ave NW // Huntsville, AL 35801-4634
+
+[]
+  Trim Tab Brewing
+  2721 5th Ave S // Birmingham, AL 35233-3401
+  www.trimtabbrewing.com
+
+[]
+  Yellowhammer Brewery
+  2406 Clinton Ave W // Huntsville, AL 35805-3014
+  www.yellowhammerbrewery.com
+
