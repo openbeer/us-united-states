@@ -1,0 +1,29 @@
+#########################################################
+# Breweries in Colorado (CO) // Rocky Mountains
+
+
+
+[coors]
+  Coors|Coors Brewing Co.|Coors Brewing Company
+  // Golden, CO
+
+[]
+  MillerCoors Brewing Co - Golden    ## same as coors/ merge records ??
+  311 10th St //  Golden, CO 80401-5811
+
+
+[]
+  AC Golden Brewing Company    ## same as coors ??
+  PO Box 4030  // Golden, CO 80402-4030
+  www.acgolden.com
+
+[ab]
+  Anheuser-Busch Inc - Fort Collins
+  2351 Busch Dr // Fort Collins, CO 80524-9400
+
+[]
+  Blue Moon Brewing Co at the Sandlot
+  2145 Blake St //  Denver, CO 80205-2010
+  www.millercoors.com
+
+

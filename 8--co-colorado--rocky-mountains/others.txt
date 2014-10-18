@@ -1,0 +1,27 @@
+#########################################################
+# Breweries in Colorado (CO) // Rocky Mountains
+
+### contract brewers
+
+[]
+  Black Fox Brewing Co
+  1647 S Tejon St //  Colorado Springs, CO 80905-2215
+
+[]
+  Il Vicino Wood Oven Pizza - Co. Springs
+  11 S Tejon St // Colorado Springs, CO 80903-1505
+  www.ilvicino.com
+
+[]
+  New Planet Beer Co
+  6560 Odell Pl Ste D //  Boulder, CO 80301-3353
+  www.newplanetbeer.com
+
+[]
+  Silverton Brewery
+  PO Box 597 1333 Greene St //  Silverton, CO 81433-0597
+  www.silvertonbrewing.com
+
+[]
+  Tivoli Brewing Company
+  70 Rudolph Ranch Rd //  Black Hawk, CO 80422-4058
