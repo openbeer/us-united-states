@@ -1,0 +1,39 @@
+################################################
+# Brewpubs in Delaware (DE) | Capital Region
+
+
+[]
+  Argilla Brewing Co @ Pietro's Pizza
+  2667 Kirkwood Hwy //  Newark, DE 19711-7242
+  www.argillabrewing.com
+
+[]
+  Dogfish Head Brewings & Eats
+  320 Rehoboth Ave //  Rehoboth Beach, DE 19971-3108
+  www.dogfish.com
+
+[]
+  Iron Hill Brewery & Restaurant - Newark
+  147 E Main St //  Newark, DE 19711-7313
+  www.ironhillbrewery.com
+
+[]
+  Iron Hill Brewery & Restaurant - Wilmington
+  710 Justison St //  Wilmington, DE 19801-5141
+  www.ironhillbrewery.com
+
+[]
+  Iron Hill Brewery & Restaurant (Corp) / Chesapeake & Delaware Brewing Company
+  2502 W 6th St // Wilmington, DE 19805-2909
+  www.ironhillbrewery.com
+
+[]
+  Stewart's Brewing Co
+  219 Governors Pl // Bear, DE 19701-3026
+  www.stewartsbrewingcompany.com
+
+[]
+  Tall Tales Brewing Co.
+  16054 S Dupont Hwy //  Harrington, DE 19952-3121
+  www.talltalesbrew.com
+

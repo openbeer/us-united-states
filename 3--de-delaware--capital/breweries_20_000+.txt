@@ -1,0 +1,13 @@
+################################################
+# Breweries in Delaware (DE) | Capital Region
+
+[dogfish]
+  Dogfish Head Craft Brewery
+  6 Cannery Village Ctr // Milton, DE 19968-1308
+  www.dogfish.com
+
+[]
+  Fordham Brewing Co
+  1284 McD Dr  //  Dover, DE 19901-4639
+  www.fordhambrewing.com
+  

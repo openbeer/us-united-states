@@ -1,10 +1,28 @@
 ################################################
 # Breweries in Delaware (DE) | Capital Region
 
-[dogfish]
-  Dogfish Head Craft Brewery
-  Milton | DE // 
+[]
+  16 Mile Brewing Co
+  413 S Bedford St // Georgetown, DE 19947-1849
+  www.16milebrewery.com
 
-[ironhill]
-  Iron Hill Brewery
-  Wilmington | DE // 
+[]
+  3rd Wave Brewing Co
+  501 N Bi State Blvd //  Delmar, DE 19940-1106
+  www.3rdwavebrewingco.com
+
+[]
+  Mispillion River Brewing
+  255 Mullet Run St //  Milford, DE 19963
+  www.mispillionriverbrewing.com
+
+[]
+  Old Dominion Brewing Co
+  1284 McD Dr //  Dover, DE 19901-4639
+  www.olddominion.com
+
+[]
+  Twin Lakes Brewing Co
+  4210 Kennett Pike //  Greenville, DE 19807-2023
+  www.twinlakesbrewery.com
+
