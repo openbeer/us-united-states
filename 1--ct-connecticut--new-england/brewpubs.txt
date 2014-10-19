@@ -1,0 +1,41 @@
+########################################################
+# Brewpubs in Connecticut | Northeast - New England
+
+[]
+  BruRm At Bar
+  254 Crown St // New Haven, CT 06511-6610
+  www.barnightclub.com
+
+[]
+  Cambridge House Brew Pub - Grandby
+  PO Box 478 357 Salmon Brook St // Granby, CT 06035-0478
+  www.cbhgranby.com
+
+[]
+  City Steam Brasserie and Brewing Cafe
+  942 Main St //  Hartford, CT 06103-1214
+  www.citysteambrewerycafe.com
+
+[]
+  Southport Brewing Co
+  819 Bridgeport Ave //  Shelton, CT 06484-4714
+
+[]
+  Southport Brewing Co
+  2600 Post Rd //  Southport, CT 06890-1258
+
+[]
+  Southport Brewing Co - Branford
+  850 W Main St //  Branford, CT 06405-3422
+  www.southportbrewing.com
+
+[]
+  Southport Brewing Co - Downtown
+  131 Summer St //  Stamford, CT 06901-2323
+  www.southportbrewing.com
+
+[]
+  Willimantic Brewing Co and Main Street Cafe
+  967 Main St //  Willimantic, CT 06226-2330
+  www.willibrew.com
+

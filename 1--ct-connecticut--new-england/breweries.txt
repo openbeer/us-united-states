@@ -1,3 +1,88 @@
 ########################################################
 # Breweries in Connecticut | Northeast - New England
 
+[]
+  Back East Brewing
+  1296 Blue Hills Ave Ste A // Bloomfield, CT 06002-5312
+  www.backeastbrewing.com
+
+[]
+  Beer'd Brewing Company
+  22 Bayview Ave # 15 // Stonington, CT 06378-1142
+  www.beerdbrewing.com
+
+[]
+  Broad Brook Brewing Company
+  2 North Rd // East Windsor, CT 06088-9516
+  www.broadbrookbrewing.com
+
+[]
+  Cavalry Brewing Company
+  115 Hurley Rd Bldg 9A/B // Oxford, CT 06478-1037
+  wwwcavalrybrewing.com
+
+[]
+  Cottrell Brewing Co
+  100 Mechanic St // Pawcatuck, CT 06379-2163
+  www.cottrellbrewing.com
+
+[]
+  Duvig Brewing Co
+  59 School Ground Rd Ste 10 // Branford, CT 06405-2868
+  www.duvig.com
+
+[]
+  Firefly Hollow Brewing Co.
+  139 Center St Ste 5005 // Bristol, CT 06010-5086
+  www.fireflybrewing.com
+
+[]
+  Half Full Brewery
+  43 Homestead Ave // Stamford, CT 06902-7204
+  www.halffullbrewery.com
+
+[]
+  New England Brewing Co
+  7 Selden St // Woodbridge, CT 06525-2217
+  www.newenglandbrewing.com
+
+[]
+  OEC Brewing
+  7 Fox Hollow Rd // Oxford, CT 06478-3162
+  www.oecbrewing.com
+
+[]
+  Olde Burnside Brewing Co.
+  776 Tolland St // East Hartford, CT 06108-2727
+  www.oldeburnsidebrewing.com
+
+[]
+  Overshores Brewing Co
+  250 Bradley St // East Haven, CT 06512-1471
+  www.overshores.com
+
+[]
+  Relic Brewing
+  95B Whiting St // Plainville, CT 06062-2842
+  www.relicbeer.com
+
+[]
+  Shebeen Brewing Company
+  1 Wolcott Rd // Wolcott, CT 06716-2611
+  www.shebeenbrewing.com
+
+[]
+  Thimble Island Brewery
+  53 E Industrial Rd Ste B3 // Branford, CT 06405-6525
+  www.thimbleislandbrewery.com
+
+[]
+  Thomas Hooker Brewing Co
+  16 Tobey Rd // Bloomfield, CT 06002-3522
+  www.hookerbeer.com
+
+[]
+  Two Roads Brewing Co
+  1700 Stratford Ave // Stratford, CT 06615-6419
+  www.tworoadsbrewing.com
+

@@ -1,0 +1,40 @@
+########################################################
+# Breweries in Connecticut | Northeast - New England
+
+## contract brewers
+
+[]
+  Beaver Beer Co
+  PO Box 4 // Greens Farms, CT 06838-0004
+  www.beaverbeer.com
+
+[]
+  Charter Oak Brewing Company LLC
+  1211 Smith Ridge Rd //  New Canaan, CT 06840-2335
+  www.charteroakbrewing.com
+
+[]
+  Fire Island Beer Co
+  // Fairfield, CT 06824-7610
+  www.fireislandbeer.com
+
+[]
+  Great New London Brewing Co / Safe Harbor Brewing
+  // New London, CT
+  www.safeharborbeer.com
+
+[]
+  Pie & Pints Restaurant & Brewery
+  25 Leavenworth St //  Waterbury, CT 06702-2111
+  www.piesandpints.biz
+
+[]
+  Spanish Peaks Brewing Co
+  700 Canal St //  Stamford, CT 06902-5921
+  www.blackdogales.com
+
+[]
+  Stony Creek Brewery, LLC
+  // Branford, CT 06405
+  www.stonycreekbeer.com
+
