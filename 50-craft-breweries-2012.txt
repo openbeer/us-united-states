@@ -1,7 +1,7 @@
 
 # 50 Largest Craft Breweries (in Barrels)
 
- 1 |  2_125_000 |   Boston Beer Co. (Samuel Adams)  |  Boston, MA
+ 1 | 2_125_000  |   Boston Beer Co. (Samuel Adams)  |  Boston, MA
  2 |   966_007  |   Sierra Nevada Brewing Co.       |  Chico, CA
  3 |   764_741  |   New Belgium Brewing Co.         |  Fort Collings, CO
  4 |   605_896  |   The Gambrinus Co. (Shiner)      |  San Antonio, TX
@@ -16,27 +16,39 @@
 13 |   172_333  |   Dogfish Head Craft Brewery      |  Rehoboth Beach, DE
 14 |   151_000  |   Abita Brewing Co.               |  Covington, LA
 15 |   140_000  |   Shipyard Brewing Co.            |  Portland, ME
-
-
+16 |   139_930  |   Alaskan Brewing Co.             |  Juneau, AK
+17 |   126_727  |   New Glarus Brewing Co.          |  
 18 |   120_000  |   Long Trail Brewing Co.          |  Bridgewater, VT
 19 |   119_624  |   Great Lakes Brewing Co.         |  Cleveland, OH
-
+20 |   118_564  |   Firestone Walker Brewing Co.    |  Buellton, CA
+21 |   117_000  |   Anchor Brewing Co.              |  San Francisco, CA
 22 |   113_209  |   Rogue Ales Brewery              |  Newport, OR
-
-24 |   110_000  |   SweetWater Brewing Co.          |  Atlanta, GA
+23 |   112_451  |   Summit Brewing Co.              |  Saint Paul, MN
 24 |   110_000  |   Full Sail Brewing Co.           |  Hood River, OR
-
+24 |   110_000  |   SweetWater Brewing Co.          |  Atlanta, GA
 26 |    93_196  |   Victory Brewing Co.             |  Downingtown, PA
+27 |    87_750  |   Oskar Blues Brewery             |  Lyons, CO
+28 |    76_140  |   Cold Spring Brewing Co./Third Street Brewhouse   |  Cold Spring, MN
+29 |         ?  |   Flying Dog Brewery              |  Frederick, MD
+30 |    71_000  |   Founders Brewing Co.            |  Grand Rapids, MI
+31 |    68_427  |   Ninkasi Brewing Co.             |  Eugene, OR
+32 |    67_890  |   CraftWorks Restaurants & Breweries |  Chattanooga, TN
+33 |    67_194  |   Odell Brewing Co.               |  Fort Collins, CO
+34 |    65_314  |   Bear Republic Brewing Co.       |  Healdsburg, CA
+35 |    63_600  |   Stevens Point Brewery Co.       |  Stevens Point, WI
+36 |    63_000  |   Blue Point Brewing Co.          |  Patchogue, NY
+37 |    61_618  |   Southern Tier Brewing Co.       |  Lakewood, NY
+38 |    59_100  |   Lost Coast Brewery and Cafe     |  Eureka, CA
+39 |         ?  |   Karl Strauss Brewing Co.        |  San Diego, CA
+40 |    56_223  |   BJ's Chicago Pizza & Brewery    |  Hungtington Beach, CA
+41 |    52_003  |   Breckenridge Brewery            |  Breckenridge, CO
+42 |    51_223  |   North Coast Brewing Co.         |  Fort Bragg, CA
+43 |    49_549  |   Left Hand Brewing Co.           |  Longmont, CO
+44 |    49_442  |   Saint Louis Brewery (Schlafly Beers) |  Saint Louis, MO
+45 |    49_119  |   Saint Arnold Brewing Co.        |  Houston, TX
+46 |    47_503  |   Ballast Point Brewing Co.       |  San Diego, CA
+47 |    45_600  |   Big Sky Brewing Co.             |  Missoula, MT
+48 |    45_257  |   Allagash Brewing Co.            |  Portland, ME
+49 |    44_924  |   Uinta Brewing Co.               |  Salt Lake City, UT
+50 |    44_000  |   Töegs Brewing Co.               |  Hershey, PA
 
-30 |    68_427  |   Ninkasi Brewing Co.             |  Eugene, OR
-31 |    67_890  |   CraftWorks Restaurants & Breweries |  Chattanooga, TN
-
-35 |    63_000  |   Blue Point Brewing Co.          |  Patchogue, NY
-36 |    61_618  |   Southern Tier Brewing Co.       |  Lakewood, NY
-
-
-43 |    49_442  |   Saint Louis Brewery             |  Saint Louis, MO
-
-47 |    45_257  |   Allagash Brewing Co.            |  Portland, ME
-
-49 |    44_000  |   Troegs Brewing Co.              |  Hershey, PA
