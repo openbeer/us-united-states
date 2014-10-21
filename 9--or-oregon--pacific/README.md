@@ -1,4 +1,4 @@
 
 
-Note: see the Oregon repo - [`github/or-oregon`(https://github.com/openbeer/or-oregon)]
+Note: see the Oregon (OR) repo - [`github/or-oregon`](https://github.com/openbeer/or-oregon)
 

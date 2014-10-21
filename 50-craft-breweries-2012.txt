@@ -1,0 +1,42 @@
+
+# 50 Largest Craft Breweries (in Barrels)
+
+ 1 |  2_125_000 |   Boston Beer Co. (Samuel Adams)  |  Boston, MA
+ 2 |   966_007  |   Sierra Nevada Brewing Co.       |  Chico, CA
+ 3 |   764_741  |   New Belgium Brewing Co.         |  Fort Collings, CO
+ 4 |   605_896  |   The Gambrinus Co. (Shiner)      |  San Antonio, TX
+ 5 |   255_093  |   Deschutes Brewery               |  Bend, OR
+ 6 |   244_420  |   Lagunitas Brewing Co.           |  Petaluma, CA
+ 7 |   216_316  |   Bell's Brewery                  |  Galesburg, MI
+ 8 |   207_900  |   Matt Brewing Co.                |  Utica, NY
+ 9 |   193_000  |   Harpoon Brewery                 |  Boston, MA
+10 |   177_199  |   Stone Brewing Co.               |  Escondido, CA
+11 |   176_000  |   Brooklyn Brewery                |  Brooklyn, NY
+12 |   173_793  |   Boulevard Brewing Co.           |  Kansas City, MO
+13 |   172_333  |   Dogfish Head Craft Brewery      |  Rehoboth Beach, DE
+14 |   151_000  |   Abita Brewing Co.               |  Covington, LA
+15 |   140_000  |   Shipyard Brewing Co.            |  Portland, ME
+
+
+18 |   120_000  |   Long Trail Brewing Co.          |  Bridgewater, VT
+19 |   119_624  |   Great Lakes Brewing Co.         |  Cleveland, OH
+
+22 |   113_209  |   Rogue Ales Brewery              |  Newport, OR
+
+24 |   110_000  |   SweetWater Brewing Co.          |  Atlanta, GA
+24 |   110_000  |   Full Sail Brewing Co.           |  Hood River, OR
+
+26 |    93_196  |   Victory Brewing Co.             |  Downingtown, PA
+
+30 |    68_427  |   Ninkasi Brewing Co.             |  Eugene, OR
+31 |    67_890  |   CraftWorks Restaurants & Breweries |  Chattanooga, TN
+
+35 |    63_000  |   Blue Point Brewing Co.          |  Patchogue, NY
+36 |    61_618  |   Southern Tier Brewing Co.       |  Lakewood, NY
+
+
+43 |    49_442  |   Saint Louis Brewery             |  Saint Louis, MO
+
+47 |    45_257  |   Allagash Brewing Co.            |  Portland, ME
+
+49 |    44_000  |   Troegs Brewing Co.              |  Hershey, PA
