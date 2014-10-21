@@ -50,5 +50,5 @@
 47 |    45_600  |   Big Sky Brewing Co.             |  Missoula, MT
 48 |    45_257  |   Allagash Brewing Co.            |  Portland, ME
 49 |    44_924  |   Uinta Brewing Co.               |  Salt Lake City, UT
-50 |    44_000  |   Töegs Brewing Co.               |  Hershey, PA
+50 |    44_000  |   Tröegs Brewing Co.               |  Hershey, PA
 
