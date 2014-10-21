@@ -1,0 +1,51 @@
+
+ 1 | Boston Beer Co.              |  Boston MA
+ 2 | Sierra Nevada Brewing Co.    |  Chico CA 
+ 3 | New Belgium Brewing Co.      |  Fort Collins CO
+ 4 | Gambrinus                    |  San Antonio TX
+ 5 | Lagunitas Brewing Co.        |  Petaluma  CA
+ 6 | Deschutes Brewery            |  Bend OR
+ 7 | Bell's Brewery               |  Galesburg MI
+ 8 | Duvel Moortgat USA           |  Kansas City MO & Cooperstown NY
+ 9 | Brooklyn Brewery             |  Brooklyn NY 
+10 | Stone Brewing Co.            |  Escondido CA 
+11 | Matt Brewing Co.             |  Utica NY
+12 | Harpoon Brewery              |  Boston MA
+13 | Dogfish Head Craft Brewery   |  Milton DE
+14 | Shipyard Brewing Co.         |  Portland ME
+15 | Abita Brewing Co.            |  Abita Springs LA
+16 | Firestone Walker Brewing Co. |  Paso Robles CA
+17 | Alaskan Brewing Co.          |  Juneau AK
+18 | New Glarus Brewing Co.       |  New Glarus WI
+19 | SweetWater Brewing Co.       |  Atlanta GA
+20 | Great Lakes Brewing Co.      |  Cleveland OH
+21 | Anchor Brewing Co.           |  San Francisco CA
+22 | Long Trail Brewing Co.       |  Bridgewater Corners VT
+23 | Summit Brewing Co.           |  St. Paul MN
+24 | Oskar Blues Brewery          |  Longmont CO
+25 | Full Sail Brewing Co.        |  Hood River OR
+26 | Founders Brewing Co.         |  Grand Rapids MI
+27 | Rogue Ales                   |  Newport OR
+28 | Victory Brewing Co.          |  Downingtown PA
+29 | Ballast Point Brewing Co.    |  San Diego CA
+30 | Ninkasi Brewing Co.          |  Eugene OR
+31 | Southern Tier Brewing Co.    |  Lakewood NY
+32 | Cold Spring Brewing Co./Third Street Brewhouse |  Cold Spring MN
+33 | Flying Dog Brewery           |  Frederick MD
+34 | Odell Brewing Co.            |  Fort Collins CO
+35 | Stevens Point Brewery Co.    |  Stevens Point WI
+36 | Bear Republic Brewing Co.    |  Cloverdale CA
+37 | Lost Coast Brewery and Cafe  |  Eureka CA
+38 | Left Hand Brewing Co.        |  Longmont CO
+39 | CraftWorks Restaurants & Breweries |  Chattanooga TN & Louisville CO
+40 | Breckenridge Brewery         |  Denver CO
+41 | Karl Strauss Brewing Co.     |  San Diego CA
+42 | Blue Point Brewing Co.       |  Patchogue NY
+43 | Sixpoint Brewery             |  Brooklyn NY        ## New in 2013
+44 | BJ's Chicago Pizza & Brewery |  Huntington Beach CA
+45 | North Coast Brewing Co.      |  Fort Bragg CA
+46 | Uinta Brewing Co.            |  Salt Lake City UT
+47 | Allagash Brewing Co.         |  Portland ME
+48 | Saint Arnold Brewing Co.     |  Houston TX
+49 | Gordon Biersch Brewing Co.   |  San Jose CA        ## New in 2013
+50 | 21st Amendment Brewery       |  San Francisco CA   ## New in 2013
