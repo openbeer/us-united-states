@@ -1,0 +1,79 @@
+
+
+ 1 | Anheuser-Busch Inc.          |  St. Louis MO     ## (a)
+ 2 | MillerCoors                  |  Chicago IL       ## (b)
+ 3 | Pabst Brewing Co.            |  Los Angeles CA   ## (c)
+ 4 | D. G. Yuengling and Son Inc. |  Pottsville PA
+ 5 | Boston Beer Co.              |  Boston MA        ## (d)
+ 6 | North American Breweries     |  Rochester NY     ## (e)
+ 7 | Sierra Nevada Brewing Co.    |  Chico CA
+ 8 | New Belgium Brewing Co.      |  Fort Collins CO
+ 9 | Craft Brew Alliance          |  Portland OR      ## (f)
+10 | Gambrinus                    |  San Antonio TX   ## (g)
+11 | Lagunitas Brewing Co.        |  Petaluma CA
+12 | Deschutes Brewery            |  Bend OR
+13 | Bell's Brewery               |  Galesburg MI
+14 | Duvel Moortgat USA           |  Kansas City MO & Cooperstown NY   ## (h)
+15 | Minhas Craft Brewery         |  Monroe WI        ## (i)
+16 | Brooklyn Brewery             |  Brooklyn NY
+17 | Stone Brewing Co.            |  Escondido CA
+18 | Matt Brewing Co.             |  Utica NY         ## (j)
+19 | Harpoon Brewery              |  Boston MA
+20 | Dogfish Head Craft Brewery   |  Milton DE
+21 | Shipyard Brewing Co.         |  Portland ME      ## (k)
+22 | Abita Brewing Co.            |  Abita Springs LA
+23 | Firestone Walker Brewing Co. |  Paso Robles CA
+24 | Alaskan Brewing Co.          |  Juneau AK
+25 | New Glarus Brewing Co.       |  New Glarus WI
+26 | SweetWater Brewing Co.       |  Atlanta GA
+27 | Great Lakes Brewing Co.      |  Cleveland OH
+28 | August Schell Brewing Co.    |  New Ulm MN       ## (l)
+29 | Anchor Brewing Co.           |  San Francisco CA
+30 | World Brews/Winery Exchange  |  Novato CA        ## (m)
+31 | Long Trail Brewing Co.       |  Bridgewater Corners VT  ## (n)
+32 | Summit Brewing Co.           |  St. Paul MN
+33 | Oskar Blues Brewery          |  Longmont CO
+34 | Full Sail Brewing Co.        |  Hood River OR
+35 | Founders Brewing Co.         |  Grand Rapids MI
+36 | Rogue Ales                   |  Newport OR
+37 | Victory Brewing Co.          |  Downingtown PA
+38 | Ballast Point Brewing Co.    |  San Diego CA    ## New in 2013
+39 | Ninkasi Brewing Co.          |  Eugene OR
+40 | Southern Tier Brewing Co.    |  Lakewood NY
+41 | Mendocino Brewing Co.        |  Ukiah CA    ## (o)
+42 | Cold Spring Brewing Co./Third Street Brewhouse  |  Cold Spring MN     ## (p)
+43 | Flying Dog Brewery           |  Frederick MD
+44 | Odell Brewing Co.            |  Fort Collins CO
+45 | Stevens Point Brewery Co.    |  Stevens Point WI  ## (q)
+46 | Bear Republic Brewing Co.    |  Cloverdale CA
+47 | Pittsburgh Brewing Co.       |  Pittsburgh PA     ## (r)
+48 | Lost Coast Brewery and Cafe  |  Eureka CA
+49 | Narragansett Brewing Co.     |  Providence RI    ## New in 2013
+50 | Left Hand Brewing Co.        |  Longmont CO      ## New in 2013
+
+
+
+## notes:
+##  (a) includes Bass, Beck’s, Bud Light, Budweiser, Busch, Goose Island, 
+##       Landshark, Michelob, Rolling Rock, Shock Top and Wild Series brands;
+##      does NOT include partially owned Coastal, Craft Brew Alliance, Fordham, Kona, Old Dominion,
+##            Omission, Red Hook and Widmer Brothers brands
+##  (b) includes A.C. Golden, Batch 19, Blue Moon, Colorado Native, Coors, Keystone, Killian’s,
+##        Leinenkugel’s, Miller and Tenth & Blake brands
+##  (c) includes Pabst, Schlitz and 28 other brand families
+##  (d) includes Alchemy & Science and Sam Adams brands
+##  (e) includes Dundee, Genesee, Labatt Lime, Magic Hat and Pyramid brands
+##  (f) includes Kona, Omission, Red Hook and Widmer Brothers brands
+##  (g) includes BridgePort, Shiner and Trumer brands
+##  (h) includes Boulevard and Ommegang brands
+##  (i) includes Mountain Crest and 10 other brand families
+##  (j) includes Flying Bison, Saranac and Utica Club brands
+##  (k) includes Casco Bay, Sea Dog and Shipyard brands
+##  (l) includes Grain Belt and Schell’s brands
+##  (m) private label brands, primarily for grocery store chains
+##  (n) includes Long Trail, Otter Creek, The Shed and Wolaver’s brands
+##  (o) includes Butte Creek, Kingfisher, Mendocino and Olde Saratoga brands
+##  (p) includes Cold Spring and John Henry brands
+##  (q) includes James Page, Point and Whole Hog brands
+##  (r) includes Iron City and 17 other brand families
+
