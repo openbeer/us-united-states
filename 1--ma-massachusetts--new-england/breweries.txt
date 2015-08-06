@@ -19,3 +19,6 @@
   Pretty Things Beer & Ale Project
   Somerville | MA // 
 
+[treehouse]
+  Tree House Brewing Company
+  Monson | MA 01057 // 160 East Hill Road
