@@ -1,0 +1,33 @@
+###########################################################
+#  Great American Beer Festival (GABF) Winners
+#   - 9 winners in 2014 from Washington (WA)
+#
+#  see www.greatamericanbeerfestival.com/the-competition/winners
+
+- American-Style Brett Beer
+    Gold |  Beltane |  Propolis Brewing |  Port Townsend, WA
+
+- American-Style or International-Style Pilsener
+    Gold |  Pre-Flight Pilsner |  Airways Brewing Co. |  Kent, WA
+
+- Belgian-Style Abbey Ale
+    Bronze |  Dubbel Entendre |  Sound Brewery |  Poulsbo, WA
+
+- European-Style Dunkel
+    Gold |  Chuckanut Dunkel |  Chuckanut Brewery |  Bellingham, WA
+
+- Fruit Wheat Beer
+    Gold |  Apricot Ale |  Pyramid Breweries |  Seattle, WA
+
+- German-Style Altbier
+    Gold |  Red Alt |  White Bluffs Brewing |  Richland, WA
+
+- International-Style Pale Ale
+    Silver |  Summer Ale |  Fremont Brewing Co. |  Seattle, WA
+
+- Old Ale or Strong Ale
+    Silver |  Old Scrooge |  Silver City Brewery |  Bremerton, WA
+
+- Wood- and Barrel-Aged Strong Stout
+    Silver |  Bourbon Barrel Aged Dark Star |  Fremont Brewing Co. |  Seattle, WA
+

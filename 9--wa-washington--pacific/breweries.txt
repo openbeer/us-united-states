@@ -1,0 +1,55 @@
+#######################################################
+# Breweries in Washington (WA) // Pacific Northwest
+
+___________________
+- Seattle
+
+[elysian]
+  Elysian
+  // Seattle, WA
+
+[georgetown]
+  Georgetown
+  // Seattle, WA
+
+[hales]
+  Hale's
+  // Seattle, WA
+
+[pike]
+  Pike
+  // Seattle, WA
+
+[pyramid]
+  Pyramid Breweries
+  // Seattle, WA
+
+
+
+___________________
+- Washington State
+
+[boundarybay]
+  Boundary Bay
+
+[diamondknot]
+  Diamond Knot
+
+
+[redhook]
+  Redhook|Redhook Ale Brewery
+  // Woodinville, WA
+
+[macnjacks]
+  Mac & Jack's
+
+[fish]
+  Fish
+
+
+
+[noli]
+  No-Li Brewhouse
+  // Spokane, WA
+
+

@@ -1,0 +1,24 @@
+
+# 10 largest breweries (in Barrels)
+
+## NOTE: Washington has no gigantic industry breweries/brewery plants
+##         double-check ??
+
+###
+#  largest brewery Redhook, 60_000 barrels ??
+
+
+### craft breweries
+
+ ?  (15_000+ 2013)  |  Redhook (Craft Brew Alliance)  |  Woodinville, WA
+ ?  (15_000+ 2013)  |  Fish Brewing Co                |  Olympia, WA
+ ?  (15_000+ 2013)  |  Georgetown Brewing Co          |  Seattle, WA
+ ?  (15_000+ 2013)  |  Mac and Jacks Brewery          |  Redmond, WA
+ ?  (15_000+ 2013)  |  Pyramid Brewery/North American Breweries |  Seattle, WA
+
+
+###########
+##  facts (by brewers association)
+#
+#   201 craft breweries (#2, #8 per capita), 333_175 barrels production (in 2013 - #11)
+
